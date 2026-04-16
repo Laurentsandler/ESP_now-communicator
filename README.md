@@ -14,8 +14,7 @@
 
 <HW_DESIGN_SUMMARY_PLACEHOLDER>
 
-EasyEDA project link:
-<EASYEDA_PROJECT_URL_PLACEHOLDER>
+EasyEDA project link: <EASYEDA_PROJECT_URL_PLACEHOLDER>
 
 ### PCB Layout & 3D Renders
 
@@ -30,8 +29,7 @@ EasyEDA project link:
 ![Case Placeholder](<CASE_IMAGE_URL_1_PLACEHOLDER>)
 ![Case Placeholder](<CASE_IMAGE_URL_2_PLACEHOLDER>)
 
-Onshape project link:
-<ONSHAPE_PROJECT_URL_PLACEHOLDER>
+Onshape project link: <ONSHAPE_PROJECT_URL_PLACEHOLDER>
 
 ### 3D Mockups
 
