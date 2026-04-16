@@ -1,5 +1,5 @@
 Item,Description,Purpose,Qty,Unit Price,Link,Supplier
 JLCPCB PCB,Custom PCB,Main computer that interfaces with components,1,64.43,N/A,JLCPCB
-1.3" OLED I2C Display (128x64 White),OLED Display Module,Display messages and content,2,6.36,https://fr.aliexpress.com/item/4000191763740.html,AliExpress
+"1.3"" OLED I2C Display (128x64 White)",OLED Display Module,Display messages and content,2,6.36,https://fr.aliexpress.com/item/4000191763740.html,AliExpress
 8dBi WiFi Antenna (2.4GHz),External WiFi Antenna,Supports long-distance communication,1,5.66,https://fr.aliexpress.com/item/1005007449002305.html,AliExpress
 103450 3.7V 2000mAh LiPo Battery,Lithium Polymer Battery,Main power source,2,7.81,https://fr.aliexpress.com/item/1005011659846396.html,AliExpress
