@@ -30,8 +30,7 @@ EasyEDA project link:
 ![Case Placeholder](<CASE_IMAGE_URL_1_PLACEHOLDER>)
 ![Case Placeholder](<CASE_IMAGE_URL_2_PLACEHOLDER>)
 
-## Onshape project link
-
+Onshape project link:
 <ONSHAPE_PROJECT_URL_PLACEHOLDER>
 
 ### 3D Mockups
