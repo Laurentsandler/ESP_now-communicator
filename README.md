@@ -14,7 +14,7 @@
 
 <HW_DESIGN_SUMMARY_PLACEHOLDER>
 
-EasyEDA project link: <EASYEDA_PROJECT_URL_PLACEHOLDER>
+EasyEDA Project Link: <EASYEDA_PROJECT_URL_PLACEHOLDER>
 
 ### PCB Layout & 3D Renders
 
@@ -29,7 +29,7 @@ EasyEDA project link: <EASYEDA_PROJECT_URL_PLACEHOLDER>
 ![Case Placeholder](<CASE_IMAGE_URL_1_PLACEHOLDER>)
 ![Case Placeholder](<CASE_IMAGE_URL_2_PLACEHOLDER>)
 
-Onshape project link: <ONSHAPE_PROJECT_URL_PLACEHOLDER>
+Onshape Project Link: <ONSHAPE_PROJECT_URL_PLACEHOLDER>
 
 ### 3D Mockups
 
@@ -73,7 +73,7 @@ Install these libraries via Arduino IDE Library Manager:
 
 ### Base Setup
 
-Edit the following in `firmware/base/base.ino`:
+Edit the following in `<FIRMWARE_FILE_PATH_PLACEHOLDER>`:
 
 ```cpp
 const char* WIFI_SSID = "<WIFI_SSID_PLACEHOLDER>";
