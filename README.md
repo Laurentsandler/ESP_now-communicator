@@ -23,7 +23,7 @@ EasyEDA Project Link:  https://oshwlab.com/capyvara0/esp_now-communicator
 
 ### Case
 
-<CASE_DESIGN_DESCRIPTION_PLACEHOLDER>
+
 
 <img width="834" height="826" alt="image" src="https://github.com/user-attachments/assets/44fdb6c3-ce31-4822-bf9b-f17e6600ecad" />
 <img width="933" height="818" alt="image" src="https://github.com/user-attachments/assets/63216ec6-f913-4616-b818-edefcb88487c" />
