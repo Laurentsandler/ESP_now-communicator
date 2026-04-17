@@ -12,7 +12,7 @@ My school banned phones, so I wanted to build a small communicator that me and m
 
 The custom PCB was designed using EasyEDA, and is 2 layers. The battery fits behind it, the case has locked in buttons.
 
-EasyEDA Project Link: <EASYEDA_PROJECT_URL_PLACEHOLDER>
+EasyEDA Project Link:  https://oshwlab.com/capyvara0/esp_now-communicator
 
 ### PCB Layout & 3D Renders
 
